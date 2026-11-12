@@ -1,0 +1,15 @@
+C:\Users\Egzamin\source\repos\lotto\lotto\bin\Debug\net10.0\lotto.exe
+C:\Users\Egzamin\source\repos\lotto\lotto\bin\Debug\net10.0\lotto.deps.json
+C:\Users\Egzamin\source\repos\lotto\lotto\bin\Debug\net10.0\lotto.runtimeconfig.json
+C:\Users\Egzamin\source\repos\lotto\lotto\bin\Debug\net10.0\lotto.dll
+C:\Users\Egzamin\source\repos\lotto\lotto\bin\Debug\net10.0\lotto.pdb
+C:\Users\Egzamin\source\repos\lotto\lotto\obj\Debug\net10.0\lotto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Egzamin\source\repos\lotto\lotto\obj\Debug\net10.0\lotto.AssemblyInfoInputs.cache
+C:\Users\Egzamin\source\repos\lotto\lotto\obj\Debug\net10.0\lotto.AssemblyInfo.cs
+C:\Users\Egzamin\source\repos\lotto\lotto\obj\Debug\net10.0\lotto.csproj.CoreCompileInputs.cache
+C:\Users\Egzamin\source\repos\lotto\lotto\obj\Debug\net10.0\lotto.dll
+C:\Users\Egzamin\source\repos\lotto\lotto\obj\Debug\net10.0\refint\lotto.dll
+C:\Users\Egzamin\source\repos\lotto\lotto\obj\Debug\net10.0\lotto.pdb
+C:\Users\Egzamin\source\repos\lotto\lotto\obj\Debug\net10.0\lotto.genruntimeconfig.cache
+C:\Users\Egzamin\source\repos\lotto\lotto\obj\Debug\net10.0\ref\lotto.dll
+C:\Users\Egzamin\source\repos\lotto\lotto\obj\Debug\net10.0\lotto.sourcelink.json
